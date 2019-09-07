@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
   
 [[experience]]
-  title = "Project Manager"
+  title = "Data Manager"
   company = "SEAtizen Science, UCSB Bren School"
   company_url = "https://seatizenscience.org/"
   location = "Santa Barbara, CA"
@@ -29,9 +29,9 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "Marine Conservation Intern"
-  company = "Environmental Defense Center and Channel Islands National Marine Sanctuary"
-  company_url = "https://www.environmentaldefensecenter.org/"
+  title = "Data Management Intern"
+  company = "Santa Barbara Channelkeeper"
+  company_url = "https://www.sbck.org/"
   location = "Santa Barbara, CA"
   date_start = "2018-06-18"
   date_end = "2018-09-18"
