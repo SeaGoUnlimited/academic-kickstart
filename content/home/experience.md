@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Data Manager"
   company = "Channel Islands National Marine Sanctuary"
@@ -25,20 +26,35 @@ date_format = "Jan 2006"
   date_start = "2018-04-01"
   date_end = "2019-06-15"
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Data Management Intern"
+  company = "Santa Barbara Channelkeeper"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  location = "Santa Barbara, California"
+  date_start = "2018-06"
+  date_end = "2018-09"
+  description = """
+  """
+  
+  [[experience]]
+  title = "Spinal Cord Injury Peer Mentor"
+  company = "Christopher and Dana Reeve Foundation"
+  company_url = ""
+  location = "United States"
+  date_start = "2014"
+  date_end = "Present"
+  description = """
+  """
+  
+  [[experience]]
+  title = "Spinal Cord Injury Research Intern"
+  company = "The Shepherd Center"
+  company_url = ""
+  location = "Atlanta,Georgia"
+  date_start = "2013-09"
+  date_end = "2014-01"
+  description = """
+  """
 +++
