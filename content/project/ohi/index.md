@@ -1,12 +1,12 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: http://ohi-science.org/globalfellows/blog.html
+external_link: https://www.christopherreeve.org/your-community
 image:
   caption: 
   focal_point: 
-summary: Ocean Health Index blog post
+summary: Mentor newly injured patients with spinal cord injuries as they adjust to activities of daily living.
 tags:
-- writing
-title: Roadblocks to Synthesis
+- mentor
+title: Spinal Cord Injury Peer Mentor
 ---
 

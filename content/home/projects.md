@@ -26,12 +26,12 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Coding"
+    name = "Environmental Science"
     tag = "coding"
   
   [[content.filter_button]]
-    name = "Writing"
-    tag = "writing"
+    name = "Disability Advocacy"
+    tag = "mentor"
     
   [[content.filter_button]]
     name = "Outreach"

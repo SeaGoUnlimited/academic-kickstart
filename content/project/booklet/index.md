@@ -1,7 +1,7 @@
 ---
-title: Invasive Algae Awareness Brochure
+title: Celebrate The Bond
 date: "2016-04-27T00:00:00Z"
-external_link: http://www.mpacollaborative.org/project/invasive-algae-outreach-brochure/
+external_link: https://www.trifexis.com/outreach/seans-story
 image:
   caption: 
   focal_point: Smart
