@@ -48,7 +48,7 @@ date_format = "Jan 2006"
   description = """
   """
   
-  [[experience]]
+[[experience]]
   title = "Research Intern"
   company = "The Shepherd Center"
   company_url = ""
@@ -56,6 +56,5 @@ date_format = "Jan 2006"
   date_start = "2013-09"
   date_end = "2014-01"
   description = """
-
   """
 +++
