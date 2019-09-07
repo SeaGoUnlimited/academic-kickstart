@@ -36,7 +36,7 @@ subtitle = ""
   name = "Project Management"
   
 [[feature]]
-  icon = "accessible"
+  icon = "wheelchair"
   icon_pack = "fas"
   name = "Disability Advocate"
 
