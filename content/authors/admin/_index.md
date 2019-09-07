@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:seangoral@ucsb.edu".
 #- icon: twitter
  # icon_pack: fab
   #link: https://twitter.com/GeorgeCushen
@@ -50,7 +50,7 @@ social:
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/SeaGoUnlimited
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -67,6 +67,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sean Goral is a recent graduate from a Master's program at the Bren Schoolof Environmental Science and Management, UCSB. At Bren, he specialized in pollution prevention and remediation with a focus in environmental data science. His other scientific interests include resource protection, conservation biology, epidural stimulation technology, and brain computer interface technology. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+In 2015, Sean collaborated with a service dog non-profit organization called Canine Assistants, and he was featured in service dog advocacy multimedia content to promote the Canine Assistants organization and its sponsors.
+
+In 2014, Sean became a certified spinal cord injury peer mentor with the Christopher and Dana Reeve Foundation following a traumatic car accident in 2013. During that same post-accident year, Sean also finished his undergraduate studies to earn his Bachelor of Science in Biology.
