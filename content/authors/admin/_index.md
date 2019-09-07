@@ -14,13 +14,8 @@ role: Environmental Scientist & Disability Advocate
 
 # Organizations/Affiliations
 organizations:
-- name:Christopher & Dana Reeve Foundation
+- name: UCSB, Christopher & Dana Reeve Foundation, and Canine Assistants
   url: ""
-role: Peer Mentor, [Christopher & Dana Reeve Foundation](https://www.christopherreeve.org/)
-
-- name: Canine Assistants
-  url: ""
-role: Canine Assistants Advocate, [Canine Assistants](https://www.canineassistants.org/)
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -33,7 +28,7 @@ interests:
 education:
   courses:
   - course: MA Environmental Science and Management
-    institution: Univerdity California, Santa Barbara
+    institution: University California, Santa Barbara
     year: 2019
   - course: BS Biology
     institution: Georgia Southern University
