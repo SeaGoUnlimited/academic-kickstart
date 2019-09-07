@@ -7,6 +7,6 @@ image:
 summary: Visualize hydrology data with the goal of restoring flow to the Ventura River
 tags:
 - coding
-title: R Shiny App
+title: Ventura River Shiny App
 ---
 
