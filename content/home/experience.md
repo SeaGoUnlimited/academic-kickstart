@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "Data Management Intern"
+  title = "Data Scientist Intern"
   company = "Santa Barbara Channelkeeper"
   company_url = "https://www.sbck.org/"
   location = "Santa Barbara, CA"
@@ -39,12 +39,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Research Associate, Applied Ecology"
-  company = "Algenol Biotech LLC"
+  title = "SCI Peer Mentor"
+  company = "Christopher and Dana Reeve Foundation"
   company_url = ""
-  location = "Fort Myers, FL"
-  date_start = "2014-06-14"
-  date_end = "2017-07-14"
+  location = "Atlanta, GA; Santa Barbara, CA"
+  date_start = "2014-04-01"
+  date_end = ""
   description = """
   """
   
