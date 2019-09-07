@@ -17,9 +17,19 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Global Fellow, Ocean Health Index (OHI)"
+  company = "National Center for Ecological Analysis and Synthesis (NCEAS)"
+  company_url = "https://www.nceas.ucsb.edu/"
+  location = "Santa Barbara, CA"
+  date_start = "2019-01-28"
+  date_end = "2019-08-30"
+  description = """
+  """
   
 [[experience]]
-  title = "Data Manager"
+  title = "Project Manager"
   company = "SEAtizen Science, UCSB Bren School"
   company_url = "https://seatizenscience.org/"
   location = "Santa Barbara, CA"
@@ -29,9 +39,9 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "Data Manager/Analyst Intern"
-  company = "Santa Barbara Channelkeeper"
-  company_url = "sbck.org"
+  title = "Marine Conservation Intern"
+  company = "Environmental Defense Center and Channel Islands National Marine Sanctuary"
+  company_url = "https://www.environmentaldefensecenter.org/"
   location = "Santa Barbara, CA"
   date_start = "2018-06-18"
   date_end = "2018-09-18"
@@ -39,22 +49,23 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "S.C.I Peer Mentor"
-  company = "Christopher and Dana Reeve Foundation"
+  title = "Research Associate, Applied Ecology"
+  company = "Algenol Biotech LLC"
   company_url = ""
-  location = "U.S.A"
-  date_start = "2014"
-  date_end = "Present"
+  location = "Fort Myers, FL"
+  date_start = "2014-06-14"
+  date_end = "2017-07-14"
   description = """
   """
   
-[[experience]]
-  title = "Research Intern"
-  company = "The Shepherd Center"
+  [[experience]]
+  title = "High School Math Teacher"
+  company = "Kealakehe High School/Teach for America"
   company_url = ""
-  location = "Atlanta, Georgia"
-  date_start = "2013-09"
-  date_end = "2014-01"
+  location = "Kailua-Kona, HI"
+  date_start = "2012-06-01"
+  date_end = "2014-06-01"
   description = """
+
   """
 +++
