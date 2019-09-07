@@ -36,14 +36,14 @@ subtitle = ""
   name = "Project Management"
   
 [[feature]]
-  icon = "microscope"
+  icon = "accessible-icon"
   icon_pack = "fas"
-  name = "Microbiology"
+  name = "Disability Advocate"
 
   
 [[feature]]
-  icon = "water"
+  icon = "dog"
   icon_pack = "fas"
-  name = "Field Work & SCUBA"
+  name = "Service Dog Advocate"
 
 +++
