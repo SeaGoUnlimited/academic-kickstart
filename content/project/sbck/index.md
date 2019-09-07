@@ -4,7 +4,7 @@ external_link: https://seatizenscience.shinyapps.io/SBCK-Ventura-River/
 image:
   caption: 
   focal_point: 
-summary: Restoring flow to the Ventura River
+summary: Visualize hydrology data with the goal of restoring flow to the Ventura River
 tags:
 - coding
 title: R Shiny App

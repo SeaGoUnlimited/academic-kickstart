@@ -5,7 +5,7 @@ external_link: https://www.trifexis.com/outreach/seans-story
 image:
   caption: 
   focal_point: Smart
-summary:
+summary: Promote Canine Assistants bond based training techniques for service dogs
 tags:
 - outreach
 
