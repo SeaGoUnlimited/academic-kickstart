@@ -1,12 +1,12 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: https://www.environmentaldefensecenter.org/wp-content/uploads/2019/02/Ecosystem-resilience_final.png
+external_link: https://seatizenscience.shinyapps.io/SBCK-Ventura-River/
 image:
   caption: 
   focal_point: 
-summary:
+summary: Restoring flow to the Ventura River
 tags:
-- outreach
-title: Infographic on Resilient Coasts
+- coding
+title: R Shiny App
 ---
 
