@@ -15,7 +15,9 @@ role: Environmental Scientist & Disability Advocate
 # Organizations/Affiliations
 organizations:
 - name: UCSB, Christopher & Dana Reeve Foundation, and Canine Assistants
-  url: ""
+  url: "https://www.nceas.ucsb.edu"
+role: Peer Mentor, [Christopher & Dana Reeve Foundation](https://www.christopherreeve.org/)
+
 
 # Short bio (displayed in user profile at end of posts)
 bio:
