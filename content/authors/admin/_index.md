@@ -18,6 +18,7 @@ organizations:
   url: "https://www.nceas.ucsb.edu"
 role: Peer Mentor, [Christopher & Dana Reeve Foundation](https://www.christopherreeve.org/)
 
+role: Canine Assistants Advocate, [Canine Assistants](https://www.canineassistants.org/)
 
 # Short bio (displayed in user profile at end of posts)
 bio:
