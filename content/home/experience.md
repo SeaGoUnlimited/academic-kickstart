@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Data Manager"
   company = "Channel Islands National Marine Sanctuary"
-  company_url = ""
+  company_url = "https://www.seatizenscience.org/"
   location = "California"
   date_start = "2018-04-01"
   date_end = "2019-06-15"
