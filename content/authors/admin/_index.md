@@ -67,7 +67,7 @@ user_groups:
 - Visitors
 ---
 
-Sean Goral is a recent graduate from a Master's program at the Bren Schoolof Environmental Science and Management, UCSB. At Bren, he specialized in pollution prevention and remediation with a focus in environmental data science. His other scientific interests include resource protection, conservation biology, epidural stimulation technology, and brain computer interface technology. 
+Sean Goral is a recent graduate from a Master's program at the Bren School of Environmental Science and Management, UCSB. At Bren, he specialized in pollution prevention and remediation with a focus in environmental data science. His other scientific interests include resource protection, conservation biology, epidural stimulation technology, and brain computer interface technology. 
 
 In 2015, Sean collaborated with a service dog non-profit organization called Canine Assistants, and he was featured in service dog advocacy multimedia content to promote the Canine Assistants organization and its sponsors.
 
