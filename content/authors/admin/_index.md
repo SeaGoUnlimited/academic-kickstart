@@ -14,7 +14,7 @@ role: Environmental Scientist & Disability Advocate
 
 # Organizations/Affiliations
 organizations:
-- name: UCSB, Christopher & Dana Reeve Foundation, and Canine Assistants
+- name: USEPA, UCSB, Christopher & Dana Reeve Foundation, and Canine Assistants
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-Sean Goral a Life Scientist at the U.S. Environmental Protection Agency. His work primarily involves Resource Conservation and Recovery Act (RCRA) and Toxic Substances Control Act (TSCA) site remediation.
+Sean Goral a Life Scientist at the U.S. Environmental Protection Agency (USEPA). His work primarily involves Resource Conservation and Recovery Act (RCRA) and Toxic Substances Control Act (TSCA) site remediation.
 
 Sean is a 2019 graduate from a Master's program at the Bren School of Environmental Science and Management, UCSB. At Bren, he specialized in pollution prevention and remediation with a focus in environmental data science. His other scientific interests include resource protection, conservation biology, epidural stimulation technology, and brain computer interface technology. 
 
