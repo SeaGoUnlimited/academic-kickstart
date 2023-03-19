@@ -1,7 +1,7 @@
 ---
 title: Celebrate The Bond
 date: "2016-04-27T00:00:00Z"
-external_link: https://www.trifexis.com/outreach/seans-story
+external_link: https://www.canineassistants.org/
 image:
   caption: 
   focal_point: Smart
