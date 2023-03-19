@@ -7,6 +7,6 @@ image:
 summary: Web Map Application created to visualize vessel traffic and whale presence in the Santa Barbara channel and the Channel Islands National Marine Sanctuary (CINMS).
 tags:
 - coding
-title: Benioff Ocean Science Laboratory
+title: Benioff Ocean Science Laboratory - Whale Safe
 ---
 
