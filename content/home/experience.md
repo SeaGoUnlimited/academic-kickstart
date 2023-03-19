@@ -21,11 +21,12 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Staff Reasearch Associate"
   company = "Benioff Ocean Initiative"
-  company_url = "https://whalesafe.com/"
+  company_url = "https://boi.ucsb.edu/"
   location = "Santa Barbara, CA"
   date_start = "2019-07-01"
   date_end = "2020-09-15"
   description = """
+  https://whalesafe.com/
   """
 
 [[experience]]
