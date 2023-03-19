@@ -32,7 +32,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Data Manager"
   company = "SEAtizen Science, UCSB Bren School"
-  company_url = "https://seatizenscience.org/"
+  company_url = "https://bren.ucsb.edu/projects/improving-citizen-science-data-management-resource-protection"
   location = "Santa Barbara, CA"
   date_start = "2018-04-01"
   date_end = "2019-06-14"
