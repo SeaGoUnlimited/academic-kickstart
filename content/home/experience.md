@@ -17,7 +17,17 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-  
+
+[[experience]]
+  title = "Staff Reasearch Associate"
+  company = "Benioff Ocean Initiative"
+  company_url = "https://whalesafe.com/"
+  location = "Santa Barbara, CA"
+  date_start = "2019-07-01"
+  date_end = "2020-09-15"
+  description = """
+  """
+
 [[experience]]
   title = "Data Manager"
   company = "SEAtizen Science, UCSB Bren School"
