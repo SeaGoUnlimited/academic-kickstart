@@ -7,6 +7,6 @@ image:
 summary: Shiny app created for the Channel Islands National Marine Sanctuary (CINMS)
 tags:
 - coding
-title: Cetacean Sighting Map
+title: Bren - Cetacean Sighting Map
 ---
 
