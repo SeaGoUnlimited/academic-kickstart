@@ -15,6 +15,11 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  icon = "dumpster"
+  icon_pack = "fas"
+  name = "Pollution Prevention & Remediation"
+  
+[[feature]]
   icon = "layer-group"
   icon_pack = "fas"
   name = "Spatial Analysis"
