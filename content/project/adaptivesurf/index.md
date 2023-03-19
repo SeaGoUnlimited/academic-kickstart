@@ -7,6 +7,6 @@ image:
 summary: Promote adaptive surfing in the disabled community
 tags:
 - mentor
-title: Adaptive Surfing 
+title: Wheelchair Surfing
 ---
 
