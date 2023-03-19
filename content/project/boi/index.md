@@ -1,12 +1,12 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: https://seatizenscience.shinyapps.io/SEASci-app/
+external_link: https://whalesafe.com/
 image:
   caption: 
   focal_point: 
-summary: Shiny app created for the Channel Islands National Marine Sanctuary (CINMS)
+summary: Web Map Application created to visualize vessel traffic and whale presence in the Santa Barbara channel and the Channel Islands National Marine Sanctuary (CINMS).
 tags:
 - coding
-title: Cetacean Sighting Map
+title: Benioff Ocean Science Laboratory
 ---
 
